@@ -2,11 +2,13 @@
   {
     "name": "John Doe",
     "review": "Amazing store! Support was super fast.",
-    "stars": 5
+    "stars": 5,
+    "img": "https://i.imgur.com/p6LIe0K.png"
   },
   {
     "name": "Meena K",
     "review": "Loved the product. Will buy again!",
-    "stars": 4
+    "stars": 4,
+    "img": "https://i.imgur.com/p6LIe0K.png"
   }
 ]
