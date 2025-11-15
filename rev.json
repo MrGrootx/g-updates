@@ -1,459 +1,346 @@
 [
   {
-    id: "1",
-    supportRating: 5,
-    comments: "Cannot express how good this script is!",
-    user: "canottxyzh",
-    date: "11/19/24",
-    image:
-      "https://cdn.discordapp.com/avatars/761835363974774794/a_9fecf147e5b7dc93744ed26c6855913e.webp?size=80",
+    "id": "1",
+    "supportRating": 5,
+    "comments": "Cannot express how good this script is!",
+    "user": "canottxyzh",
+    "date": "11/19/24",
+    "image": "https://cdn.discordapp.com/avatars/761835363974774794/a_9fecf147e5b7dc93744ed26c6855913e.webp?size=80"
   },
   {
-    id: "2",
-    supportRating: 5,
-    comments: "Good script, better customer services",
-    user: "R",
-    date: "11/27/24",
-    image:
-      "https://cdn.discordapp.com/avatars/416918685417078785/07b76684d9222fc3f4991fdf4db4f5ee.webp?size=80",
+    "id": "2",
+    "supportRating": 5,
+    "comments": "Good script, better customer services",
+    "user": "R",
+    "date": "11/27/24",
+    "image": "https://cdn.discordapp.com/avatars/416918685417078785/07b76684d9222fc3f4991fdf4db4f5ee.webp?size=80"
   },
   {
-    id: "3",
-    supportRating: 5,
-    comments:
-      "Script is very well made and developer is extremely onboard with feedback and general ideas! 10/10 recommendation for a crafting script!",
-    user: "Dyce",
-    date: "12/12/24",
-    image:
-      "https://cdn.discordapp.com/avatars/250419662255292416/fe541c7769a902c38c6f9793483b52c2.webp?size=80",
+    "id": "3",
+    "supportRating": 5,
+    "comments": "Script is very well made and developer is extremely onboard with feedback and general ideas! 10/10 recommendation for a crafting script!",
+    "user": "Dyce",
+    "date": "12/12/24",
+    "image": "https://cdn.discordapp.com/avatars/250419662255292416/fe541c7769a902c38c6f9793483b52c2.webp?size=80"
   },
   {
-    id: "4",
-    supportRating: 5,
-    comments:
-      "10/10 would Recommend, had an issue and it was fixed within minutes.",
-    user: "Ezo",
-    date: "1/3/25",
-    image: "https://discord.com/assets/411d8a698dd15ddf.png",
+    "id": "4",
+    "supportRating": 5,
+    "comments": "10/10 would Recommend, had an issue and it was fixed within minutes.",
+    "user": "Ezo",
+    "date": "1/3/25",
+    "image": "https://discord.com/assets/411d8a698dd15ddf.png"
   },
   {
-    id: "5",
-    supportRating: 5,
-    comments: "Perfect job, nice looking UI",
-    user: "Burrito",
-    date: "1/5/25",
-    image:
-      "https://cdn.discordapp.com/avatars/159085662417584128/a_1f405fbfa336b998e42ea104dfbcc8f4.webp?size=80",
+    "id": "5",
+    "supportRating": 5,
+    "comments": "Perfect job, nice looking UI",
+    "user": "Burrito",
+    "date": "1/5/25",
+    "image": "https://cdn.discordapp.com/avatars/159085662417584128/a_1f405fbfa336b998e42ea104dfbcc8f4.webp?size=80"
   },
   {
-    id: "6",
-    supportRating: 5,
-    comments: "Thank you for all the support you gave me for a ($2!!) script",
-    user: "Foone",
-    date: "1/29/25",
-    image:
-      "https://cdn.discordapp.com/avatars/407979069205118988/f98e75f0886d2cafa7cea2ff95a24f50.webp?size=80",
+    "id": "6",
+    "supportRating": 5,
+    "comments": "Thank you for all the support you gave me for a ($2!!) script",
+    "user": "Foone",
+    "date": "1/29/25",
+    "image": "https://cdn.discordapp.com/avatars/407979069205118988/f98e75f0886d2cafa7cea2ff95a24f50.webp?size=80"
   },
   {
-    id: "7",
-    supportRating: 5,
-    comments:
-      "Perfect script and best support ever, thanks Groot for your professionalism!",
-    user: "Hk",
-    date: "2/18/25",
-    image:
-      "https://cdn.discordapp.com/avatars/1237611056080359515/3fca5b78d1aa59e37f6ead062b7695e2.webp?size=80",
+    "id": "7",
+    "supportRating": 5,
+    "comments": "Perfect script and best support ever, thanks Groot for your professionalism!",
+    "user": "Hk",
+    "date": "2/18/25",
+    "image": "https://cdn.discordapp.com/avatars/1237611056080359515/3fca5b78d1aa59e37f6ead062b7695e2.webp?size=80"
   },
   {
-    id: "8",
-    supportRating: 5,
-    comments: "Good script and best support ❤️",
-    user: "nicetuga",
-    date: "2/20/25",
-    image:
-      "https://cdn.discordapp.com/avatars/370663858567643136/ddd2c52cd9755f67585de75bfe749080.webp?size=80",
+    "id": "8",
+    "supportRating": 5,
+    "comments": "Good script and best support ❤️",
+    "user": "nicetuga",
+    "date": "2/20/25",
+    "image": "https://cdn.discordapp.com/avatars/370663858567643136/ddd2c52cd9755f67585de75bfe749080.webp?size=80"
   },
   {
-    id: "9",
-    supportRating: 5,
-    comments: "Good script and best support ♥️ ♥️",
-    user: "Aimeri",
-    date: "3/19/25",
-    image:
-      "https://cdn.discordapp.com/avatars/107797186636455936/2c4ee7118b209e2e44acdabff24dd942.webp?size=80",
+    "id": "9",
+    "supportRating": 5,
+    "comments": "Good script and best support ♥️ ♥️",
+    "user": "Aimeri",
+    "date": "3/19/25",
+    "image": "https://cdn.discordapp.com/avatars/107797186636455936/2c4ee7118b209e2e44acdabff24dd942.webp?size=80"
   },
   {
-    id: "10",
-    supportRating: 5,
-    comments:
-      "Great script with fast, polite and efficient support. Would definitely recommend!",
-    user: "Fruktas",
-    date: "3/22/25",
-    image:
-      "https://cdn.discordapp.com/avatars/811296531750715492/50c3475e952660dad9b1c17fd55ba865.webp?size=80",
+    "id": "10",
+    "supportRating": 5,
+    "comments": "Great script with fast, polite and efficient support. Would definitely recommend!",
+    "user": "Fruktas",
+    "date": "3/22/25",
+    "image": "https://cdn.discordapp.com/avatars/811296531750715492/50c3475e952660dad9b1c17fd55ba865.webp?size=80"
   },
   {
-    id: "11",
-    supportRating: 5,
-    comments: "Perfect quality, great job. ♥️ ♥️",
-    user: "Joemul2019",
-    date: "4/4/25",
-    image:
-      "https://cdn.discordapp.com/avatars/662432953422577736/4d2920dc38eabb8f9b6d30419a311ff8.webp?size=80",
-  },
-  // {
-  //   id: "12",
-  //   supportRating: 5,
-  //   comments: "Amazing script keep up the amazing work support was spot on.",
-  //   user: "Diligaf",
-  //   date: "4/14/25",
-  //   image:
-  //     "https://cdn.discordapp.com/avatars/717370893835436075/4e37eaacca09644973e785d9453e4f77.webp?size=80",
-  // },
-
-  {
-    id: "14",
-    supportRating: 5,
-    comments: "Amazing Up and Coming Company with amazing Support!",
-    user: "ringo_mandingo",
-    date: "5/1/25",
-    image:
-      "https://cdn.discordapp.com/avatars/528681423457091632/99c9474975b7fe1ec734207d3ecb52cc.webp?size=80",
+    "id": "11",
+    "supportRating": 5,
+    "comments": "Perfect quality, great job. ♥️ ♥️",
+    "user": "Joemul2019",
+    "date": "4/4/25",
+    "image": "https://cdn.discordapp.com/avatars/662432953422577736/4d2920dc38eabb8f9b6d30419a311ff8.webp?size=80"
   },
   {
-    id: "15",
-    supportRating: 5,
-    comments:
-      "I can't praise this place enough, incredibly helpful and understanding. Amazing work above and beyond",
-    user: "AboJ3fr",
-    date: "5/2/25",
-    image:
-      "https://cdn.discordapp.com/avatars/649303766025371648/55a9ec85d28661977f1a49f7fa43dc37.webp?size=80",
-  },
-  // {
-  //   id: "16",
-  //   supportRating: 5,
-  //   comments: "Amazing script keep up the amazing work support was spot on.",
-  //   user: "𝕂𝕦𝕣𝕠",
-  //   date: "5/3/25",
-  //   image:
-  //     "https://cdn.discordapp.com/avatars/341499117836697622/10d74d70c9dc53c94bccc9d3659a1027.webp?size=80",
-  // },
-  {
-    id: "17",
-    supportRating: 5,
-    comments: "W support for adding the github commit requested feature",
-    user: "Matt",
-    date: "5/20/25",
-    image:
-      "https://cdn.discordapp.com/avatars/289210274005778432/2c083b9e43930abaed89ccb04562b51c.webp?size=80",
+    "id": "14",
+    "supportRating": 5,
+    "comments": "Amazing Up and Coming Company with amazing Support!",
+    "user": "ringo_mandingo",
+    "date": "5/1/25",
+    "image": "https://cdn.discordapp.com/avatars/528681423457091632/99c9474975b7fe1ec734207d3ecb52cc.webp?size=80"
   },
   {
-    id: "18",
-    supportRating: 5,
-    comments:
-      "Incredible script, helped me out very kindly when I needed help.",
-    user: "NinaRatchet",
-    date: "5/22/25",
-    image:
-      "https://cdn.discordapp.com/avatars/822165418613538846/f4dc968db7a84d296bce9a902c64b1cc.webp?size=80",
+    "id": "15",
+    "supportRating": 5,
+    "comments": "I can't praise this place enough, incredibly helpful and understanding. Amazing work above and beyond",
+    "user": "AboJ3fr",
+    "date": "5/2/25",
+    "image": "https://cdn.discordapp.com/avatars/649303766025371648/55a9ec85d28661977f1a49f7fa43dc37.webp?size=80"
   },
   {
-    id: "19",
-    supportRating: 5,
-    comments:
-      "Amazing support and script support as well. Very knowledgeable and helpful with amazing unique scripts that's an amazing addition to any server! Def looking out for more stuff from this creator.",
-    user: "KostasCHR",
-    date: "6/5/25",
-    image:
-      "https://cdn.discordapp.com/avatars/113630117619564550/31696b1e55ac0532e0c985a002a04afc.webp?size=80",
+    "id": "17",
+    "supportRating": 5,
+    "comments": "W support for adding the github commit requested feature",
+    "user": "Matt",
+    "date": "5/20/25",
+    "image": "https://cdn.discordapp.com/avatars/289210274005778432/2c083b9e43930abaed89ccb04562b51c.webp?size=80"
   },
   {
-    id: "20",
-    supportRating: 5,
-    comments:
-      "By far the best shop script out there. I had a little problem on my end but the creator was there to assist me solve it. Also he is very fast & kind. I recommend it 100%",
-    user: "Apex",
-    date: "6/19/25",
-    image:
-      "https://cdn.discordapp.com/avatars/1108918668261343393/227c9b552bb2b2dc87328452289efdb1.webp?size=80",
+    "id": "18",
+    "supportRating": 5,
+    "comments": "Incredible script, helped me out very kindly when I needed help.",
+    "user": "NinaRatchet",
+    "date": "5/22/25",
+    "image": "https://cdn.discordapp.com/avatars/822165418613538846/f4dc968db7a84d296bce9a902c64b1cc.webp?size=80"
   },
   {
-    id: "21",
-    supportRating: 5,
-    comments:
-      "This was an impulse buy due to my lack of available time. This shop system is very nice! UI is great and so far no issues! Any questions groot responds well compared to other providers I've dealt with in the past. Thank you for a good product.",
-    user: "h4mk0",
-    date: "6/23/25",
-    image:
-      "https://cdn.discordapp.com/avatars/717049823811076116/365f0abd539ed1eddfb7ccbcc40aa5d2.webp?size=80",
+    "id": "19",
+    "supportRating": 5,
+    "comments": "Amazing support and script support as well. Very knowledgeable and helpful with amazing unique scripts that's an amazing addition to any server! Def looking out for more stuff from this creator.",
+    "user": "KostasCHR",
+    "date": "6/5/25",
+    "image": "https://cdn.discordapp.com/avatars/113630117619564550/31696b1e55ac0532e0c985a002a04afc.webp?size=80"
   },
   {
-    id: "22",
-    supportRating: 5,
-    comments:
-      "Amazing script and great full and no delay answer thanks for that great help",
-    user: "! Demon",
-    date: "7/6/25",
-    image:
-      "https://cdn.discordapp.com/avatars/474198518572122122/a_b9f24e1b6d569ddb002c3b98660d6765.webp?size=80",
+    "id": "20",
+    "supportRating": 5,
+    "comments": "By far the best shop script out there. I had a little problem on my end but the creator was there to assist me solve it. Also he is very fast & kind. I recommend it 100%",
+    "user": "Apex",
+    "date": "6/19/25",
+    "image": "https://cdn.discordapp.com/avatars/1108918668261343393/227c9b552bb2b2dc87328452289efdb1.webp?size=80"
   },
   {
-    id: "23",
-    supportRating: 5,
-    comments:
-      "Huge script, fast respond, amazing quality, the best scripts ever (highly recommended)",
-    user: "DaGoobz",
-    date: "7/8/25",
-    image:
-      "https://cdn.discordapp.com/avatars/698169708263899225/912ca494426f5e4492f1c198e240fe0a.webp?size=80",
+    "id": "21",
+    "supportRating": 5,
+    "comments": "This was an impulse buy due to my lack of available time. This shop system is very nice! UI is great and so far no issues! Any questions groot responds well compared to other providers I've dealt with in the past. Thank you for a good product.",
+    "user": "h4mk0",
+    "date": "6/23/25",
+    "image": "https://cdn.discordapp.com/avatars/717049823811076116/365f0abd539ed1eddfb7ccbcc40aa5d2.webp?size=80"
   },
   {
-    id: "24",
-    supportRating: 5,
-    comments:
-      "Really loving the layout of how the pausemenu is, nothing too crazy and it's not lacking anything. I also needed some help with the script to get the onduty/offduty status to be accurate and it took groot no time to fix my issue. I really appreciate the support.",
-    user: "G5",
-    date: "7/9/25",
-    image:
-      "https://cdn.discordapp.com/avatars/289124013375094794/f6372509cd846170331c8feb6b25f5e9.webp?size=80",
+    "id": "22",
+    "supportRating": 5,
+    "comments": "Amazing script and great full and no delay answer thanks for that great help",
+    "user": "! Demon",
+    "date": "7/6/25",
+    "image": "https://cdn.discordapp.com/avatars/474198518572122122/a_b9f24e1b6d569ddb002c3b98660d6765.webp?size=80"
   },
   {
-    id: "25",
-    supportRating: 5,
-    comments:
-      "A wonderful layout and functionality is top tier. Also @justgroot was very kind with the support needed: Quickly replies, solid and helpful answers.",
-    user: "You Like Dabs",
-    date: "7/19/25",
-    image:
-      "https://cdn.discordapp.com/avatars/558794416538779718/9ee4ad49945cea64427277434f95ac88.webp?size=80",
+    "id": "23",
+    "supportRating": 5,
+    "comments": "Huge script, fast respond, amazing quality, the best scripts ever (highly recommended)",
+    "user": "DaGoobz",
+    "date": "7/8/25",
+    "image": "https://cdn.discordapp.com/avatars/698169708263899225/912ca494426f5e4492f1c198e240fe0a.webp?size=80"
   },
   {
-    id: "26",
-    supportRating: 5,
-    comments:
-      "Works great and covers what I need for the server, looking forward to a V2!",
-    user: "Fruktas",
-    date: "7/19/25",
-    image:
-      "https://cdn.discordapp.com/avatars/811296531750715492/50c3475e952660dad9b1c17fd55ba865.webp?size=80",
-  },
-  // {
-  //   id: "27",
-  //   supportRating: 5,
-  //   comments: "Works great and very smoothly! Support great!",
-  //   user: "オレオ[Oreo]✨🩷",
-  //   date: "8/5/25",
-  //   image:
-  //     "https://cdn.discordapp.com/avatars/781705961940975636/ff33023090550d1b98acaaf9f912dfd6.webp?size=80",
-  // },
-  {
-    id: "28",
-    supportRating: 5,
-    comments:
-      "Very helpful! Gave me a solution as soon as possible and had very good customer service. I totally recommend :PinkHeart:",
-    user: "carlo7even",
-    date: "8/9/25",
-    image:
-      "https://cdn.discordapp.com/avatars/188381686965207040/757cade6055223a9a2aaad8383f1c7cc.webp?size=80",
-  },
-  // {
-  //   id: "29",
-  //   supportRating: 5,
-  //   comments:
-  //     "I love this script and @justgroot was so kind with the support. Thank you",
-  //   user: "inisnowlavavi",
-  //   date: "8/13/25",
-  //   image:
-  //     "https://cdn.discordapp.com/avatars/435373341646389248/d6b53752dfee344fe7fbf524143239a2.webp?size=80",
-  // },
-  {
-    id: "30",
-    supportRating: 5,
-    comments:
-      "I love this script sir @justgroot, you won't be able to find any devs with this kind of response",
-    user: "kyra",
-    date: "8/20/25",
-    image:
-      "https://cdn.discordapp.com/avatars/869985605952614441/45670c79db50b1931332326d69cdd0f9.webp?size=80",
+    "id": "24",
+    "supportRating": 5,
+    "comments": "Really loving the layout of how the pausemenu is, nothing too crazy and it's not lacking anything. I also needed some help with the script to get the onduty/offduty status to be accurate and it took groot no time to fix my issue. I really appreciate the support.",
+    "user": "G5",
+    "date": "7/9/25",
+    "image": "https://cdn.discordapp.com/avatars/289124013375094794/f6372509cd846170331c8feb6b25f5e9.webp?size=80"
   },
   {
-    id: "31",
-    supportRating: 5,
-    comments:
-      "Great script, and @justgroot was so kind with the support. Thank you",
-    user: "Moonx",
-    date: "8/23/25",
-    image:
-      "https://cdn.discordapp.com/avatars/769367209973383209/2cd0a2e292c0153170dbf9e4716eca20.webp?size=80",
+    "id": "25",
+    "supportRating": 5,
+    "comments": "A wonderful layout and functionality is top tier. Also @justgroot was very kind with the support needed: Quickly replies, solid and helpful answers.",
+    "user": "You Like Dabs",
+    "date": "7/19/25",
+    "image": "https://cdn.discordapp.com/avatars/558794416538779718/9ee4ad49945cea64427277434f95ac88.webp؟size=80"
   },
   {
-    id: "32",
-    supportRating: 5,
-    comments:
-      "This script was made with a level of efficiency that a lot of devs are still trying to work towards. I love the cool features and different routes you can take, as well as the customization abilities. 10/10 script. @justgroot is very kind, respectful and quick!",
-    user: "LoyalFamKash",
-    date: "8/30/25",
-    image:
-      "https://cdn.discordapp.com/avatars/830516877348307005/318c889730d8b39468ff3b9d0465fca0.webp?size=80",
+    "id": "26",
+    "supportRating": 5,
+    "comments": "Works great and covers what I need for the server, looking forward to a V2!",
+    "user": "Fruktas",
+    "date": "7/19/25",
+    "image": "https://cdn.discordapp.com/avatars/811296531750715492/50c3475e952660dad9b1c17fd55ba865.webp?size=80"
   },
   {
-    id: "33",
-    supportRating: 5,
-    comments:
-      "Great MLO and script totally recommend and @justgroot is very helpful",
-    user: "Pok",
-    date: "8/31/25",
-    image:
-      "https://cdn.discordapp.com/avatars/384943912009072640/777aa60a395a7bce8010ddc22318cc95.webp?size=80",
+    "id": "28",
+    "supportRating": 5,
+    "comments": "Very helpful! Gave me a solution as soon as possible and had very good customer service. I totally recommend :PinkHeart:",
+    "user": "carlo7even",
+    "date": "8/9/25",
+    "image": "https://cdn.discordapp.com/avatars/188381686965207040/757cade6055223a9a2aaad8383f1c7cc.webp?size=80"
   },
   {
-    id: "34",
-    supportRating: 5,
-    comments:
-      "@justgroot was VERY helpful during my pre-purchase. Script works great, looks fantastic. 0.00 ms. 10/10 would recommend",
-    user: "RedRaider",
-    date: "8/31/25",
-    image:
-      "https://cdn.discordapp.com/avatars/688537257140813971/b33c36d8304b00cc4a9c3c55978c223a.webp?size=80",
+    "id": "30",
+    "supportRating": 5,
+    "comments": "I love this script sir @justgroot, you won't be able to find any devs with this kind of response",
+    "user": "kyra",
+    "date": "8/20/25",
+    "image": "https://cdn.discordapp.com/avatars/869985605952614441/45670c79db50b1931332326d69cdd0f9.webp?size=80"
   },
   {
-    id: "35",
-    supportRating: 5,
-    comments: "Great and fast support! The script is amazing",
-    user: "Inertia",
-    date: "9/6/25",
-    image:
-      "https://cdn.discordapp.com/avatars/540369261630193686/fc999e776ec978dd06a4b80cc772e47f.webp?size=80",
+    "id": "31",
+    "supportRating": 5,
+    "comments": "Great script, and @justgroot was so kind with the support. Thank you",
+    "user": "Moonx",
+    "date": "8/23/25",
+    "image": "https://cdn.discordapp.com/avatars/769367209973383209/2cd0a2e292c0153170dbf9e4716eca20.webp?size=80"
   },
   {
-    id: "36",
-    supportRating: 5,
-    comments:
-      "@justgroot Was extremely helpful and willing to do what was needed to help me! Script looks and works great! Coming back for more in the future!",
-    user: "Regg1eKr4y",
-    date: "9/13/25",
-    image:
-      "https://cdn.discordapp.com/avatars/845396456319746058/dc5500e70fb40935d713b4839b4b2ac7.webp?size=80",
+    "id": "32",
+    "supportRating": 5,
+    "comments": "This script was made with a level of efficiency that a lot of devs are still trying to work towards. I love the cool features and different routes you can take, as well as the customization abilities. 10/10 script. @justgroot is very kind, respectful and quick!",
+    "user": "LoyalFamKash",
+    "date": "8/30/25",
+    "image": "https://cdn.discordapp.com/avatars/830516877348307005/318c889730d8b39468ff3b9d0465fca0.webp?size=80"
   },
   {
-    id: "37",
-    supportRating: 5,
-    comments:
-      "@justgroot Awesome job, needed help with something. They found the issue so quickly and corrected it. Top creator 👍",
-    user: "grafferz",
-    date: "9/14/25",
-    image:
-      "https://cdn.discordapp.com/avatars/1049286305579798589/9da7dfedb94b896bb8fc481d824b3ad8.webp?size=80",
+    "id": "33",
+    "supportRating": 5,
+    "comments": "Great MLO and script totally recommend and @justgroot is very helpful",
+    "user": "Pok",
+    "date": "8/31/25",
+    "image": "https://cdn.discordapp.com/avatars/384943912009072640/777aa60a395a7bce8010ddc22318cc95.webp?size=80"
   },
   {
-    id: "38",
-    supportRating: 5,
-    comments:
-      "@justgroot With the fast support and the amazing looking script good job ❤️",
-    user: "Clarrissa Lenae 👑",
-    date: "9/17/25",
-    image:
-      "https://cdn.discordapp.com/avatars/963245402625302568/d6aebbc4546c2bc02b449bb0af363d6d.webp?size=80",
-  },
-
-  {
-    id: "40",
-    supportRating: 5,
-    comments:
-      "@justgroot 10/10 Service, I had a few changes that needed to be made and small fixes and they were super quick and helpful with everything that I needed. 10/10 would recommend the pos system",
-    user: "Antje",
-    date: "9/21/25",
-    image:
-      "https://cdn.discordapp.com/avatars/1067577783749980200/2e65c63abe9ba1a7cd420efc33321e7d.webp?size=80",
+    "id": "34",
+    "supportRating": 5,
+    "comments": "@justgroot was VERY helpful during my pre-purchase. Script works great, looks fantastic. 0.00 ms. 10/10 would recommend",
+    "user": "RedRaider",
+    "date": "8/31/25",
+    "image": "https://cdn.discordapp.com/avatars/688537257140813971/b33c36d8304b00cc4a9c3c55978c223a.webp?size=80"
   },
   {
-    id: "41",
-    supportRating: 5,
-    comments: "The support is super fast and helpful. I'm very satisfied.",
-    user: "soup",
-    date: "9/26/25",
-    image:
-      "https://cdn.discordapp.com/avatars/241355360802177034/c3ae3a164c44e666e2d957d77d0a5c0b.webp?size=80",
+    "id": "35",
+    "supportRating": 5,
+    "comments": "Great and fast support! The script is amazing",
+    "user": "Inertia",
+    "date": "9/6/25",
+    "image": "https://cdn.discordapp.com/avatars/540369261630193686/fc999e776ec978dd06a4b80cc772e47f.webp?size=80"
   },
   {
-    id: "42",
-    supportRating: 5,
-    comments:
-      "I had an issue/suggestion with the script and within an hour, groot went out of their way to update the script. Redownloading and updating fixed everything. W dev for sure.",
-    user: "Zhalo",
-    date: "9/28/25",
-    image:
-      "https://cdn.discordapp.com/avatars/1109364662211969155/e9d7bc0a24e9a960d7b1131adab857ef.webp?size=80",
+    "id": "36",
+    "supportRating": 5,
+    "comments": "@justgroot Was extremely helpful and willing to do what was needed to help me! Script looks and works great! Coming back for more in the future!",
+    "user": "Regg1eKr4y",
+    "date": "9/13/25",
+    "image": "https://cdn.discordapp.com/avatars/845396456319746058/dc5500e70fb40935d713b4839b4b2ac7.webp?size=80"
   },
   {
-    id: "43",
-    supportRating: 5,
-    comments:
-      "Just want to say a huge well done for creating the Advanced Order System! It’s an absolutely fantastic script, I’ve only had it on my server for a few hours and I’m already in love with it. Everything works perfectly right out of the box, no hassle at all. It integrates seamlessly with everything I need, and the overall setup is clean, smooth, and incredibly well put together. Easily one of the best scripts I’ve used!",
-    user: "herbysenpai",
-    date: "9/29/25",
-    image:
-      "https://cdn.discordapp.com/avatars/314836123983544322/1d74e6315c69680543f276f244068cc6.webp?size=80",
+    "id": "37",
+    "supportRating": 5,
+    "comments": "@justgroot Awesome job, needed help with something. They found the issue so quickly and corrected it. Top creator 👍",
+    "user": "grafferz",
+    "date": "9/14/25",
+    "image": "https://cdn.discordapp.com/avatars/1049286305579798589/9da7dfedb94b896bb8fc481d824b3ad8.webp?size=80"
   },
   {
-    id: "44",
-    supportRating: 5,
-    comments:
-      "I had an issue and reached out to the support. And in less than 24 hours my problem was solved and it was not a groot issue it was a tebex issue. So fast response and awesome friendly help. Always recommend his support and scripts",
-    user: "oXTechnoKhaliXo",
-    date: "9/30/25",
-    image:
-      "https://cdn.discordapp.com/avatars/348844775706853400/3cf5057dcc35448a9164df99e0b5da88.webp?size=80",
+    "id": "38",
+    "supportRating": 5,
+    "comments": "@justgroot With the fast support and the amazing looking script good job ❤️",
+    "user": "Clarrissa Lenae 👑",
+    "date": "9/17/25",
+    "image": "https://cdn.discordapp.com/avatars/963245402625302568/d6aebbc4546c2bc02b449bb0af363d6d.webp?size=80"
   },
   {
-    id: "45",
-    supportRating: 5,
-    comments:
-      "Really fast support and really thankful. Awesome script and easy to understand.",
-    user: "popy993",
-    date: "10/2/25",
-    image:
-      "https://cdn.discordapp.com/avatars/295928288860307458/d085fe7a0e82c10d472748c68e8d6000.webp?size=80",
+    "id": "40",
+    "supportRating": 5,
+    "comments": "@justgroot 10/10 Service, I had a few changes that needed to be made and small fixes and they were super quick and helpful with everything that I needed. 10/10 would recommend the pos system",
+    "user": "Antje",
+    "date": "9/21/25",
+    "image": "https://cdn.discordapp.com/avatars/1067577783749980200/2e65c63abe9ba1a7cd420efc33321e7d.webp?size=80"
   },
   {
-    id: "46",
-    supportRating: 5,
-    comments:
-      "Quick response! A creator you can trust, even if you're Japanese.",
-    user: "RedRaider",
-    date: "10/6/25",
-    image:
-      "https://cdn.discordapp.com/avatars/688537257140813971/b33c36d8304b00cc4a9c3c55978c223a.webp?size=80",
+    "id": "41",
+    "supportRating": 5,
+    "comments": "The support is super fast and helpful. I'm very satisfied.",
+    "user": "soup",
+    "date": "9/26/25",
+    "image": "https://cdn.discordapp.com/avatars/241355360802177034/c3ae3a164c44e666e2d957d77d0a5c0b.webp?size=80"
   },
   {
-    id: "47",
-    supportRating: 5,
-    comments:
-      "Great script, Groot was quick to answer questions I had and very helpful.",
-    user: "MintyPenguin",
-    date: "10/8/25",
-    image:
-      "https://cdn.discordapp.com/avatars/878095361573552128/4afcb35b3c32b6192b9d1c2c343a90c7.webp?size=80",
+    "id": "42",
+    "supportRating": 5,
+    "comments": "I had an issue/suggestion with the script and within an hour, groot went out of their way to update the script. Redownloading and updating fixed everything. W dev for sure.",
+    "user": "Zhalo",
+    "date": "9/28/25",
+    "image": "https://cdn.discordapp.com/avatars/1109364662211969155/e9d7bc0a24e9a960d7b1131adab857ef.webp?size=80"
   },
   {
-    id: "49",
-    supportRating: 5,
-    comments:
-      "More patience than a saint, quick to resolve bugs, very friendly",
-    user: "Scuzz Raver",
-    date: "10/11/25",
-    image:
-      "https://cdn.discordapp.com/avatars/204853935901507584/9ab65f724a24f7b35ff5c43733d2e721.webp?size=80",
+    "id": "43",
+    "supportRating": 5,
+    "comments": "Just want to say a huge well done for creating the Advanced Order System! It’s an absolutely fantastic script, I’ve only had it on my server for a few hours and I’m already in love with it. Everything works perfectly right out of the box, no hassle at all. It integrates seamlessly with everything I need, and the overall setup is clean, smooth, and incredibly well put together. Easily one of the best scripts I’ve used!",
+    "user": "herbysenpai",
+    "date": "9/29/25",
+    "image": "https://cdn.discordapp.com/avatars/314836123983544322/1d74e6315c69680543f276f244068cc6.webp?size=80"
   },
   {
-    id: "50",
-    supportRating: 5,
-    comments:
-      "Excellent service very helpful, quick response and very friendly. I will enjoy setting these scripts up and working with them keep up the good work Groot team ❤️ 🔥",
-    user: "Anonymous",
-    date: "10/12/25",
-    image:
-      "https://cdn.discordapp.com/avatars/723319784099283014/627a3aabf149e0525c30b85bd427588b.webp?size=80",
+    "id": "44",
+    "supportRating": 5,
+    "comments": "I had an issue and reached out to the support. And in less than 24 hours my problem was solved and it was not a groot issue it was a tebex issue. So fast response and awesome friendly help. Always recommend his support and scripts",
+    "user": "oXTechnoKhaliXo",
+    "date": "9/30/25",
+    "image": "https://cdn.discordapp.com/avatars/348844775706853400/3cf5057dcc35448a9164df99e0b5da88.webp?size=80"
   },
-];
+  {
+    "id": "45",
+    "supportRating": 5,
+    "comments": "Really fast support and really thankful. Awesome script and easy to understand.",
+    "user": "popy993",
+    "date": "10/2/25",
+    "image": "https://cdn.discordapp.com/avatars/295928288860307458/d085fe7a0e82c10d472748c68e8d6000.webp?size=80"
+  },
+  {
+    "id": "46",
+    "supportRating": 5,
+    "comments": "Quick response! A creator you can trust, even if you're Japanese.",
+    "user": "RedRaider",
+    "date": "10/6/25",
+    "image": "https://cdn.discordapp.com/avatars/688537257140813971/b33c36d8304b00cc4a9c3c55978c223a.webp?size=80"
+  },
+  {
+    "id": "47",
+    "supportRating": 5,
+    "comments": "Great script, Groot was quick to answer questions I had and very helpful.",
+    "user": "MintyPenguin",
+    "date": "10/8/25",
+    "image": "https://cdn.discordapp.com/avatars/878095361573552128/4afcb35b3c32b6192b9d1c2c343a90c7.webp?size=80"
+  },
+  {
+    "id": "49",
+    "supportRating": 5,
+    "comments": "More patience than a saint, quick to resolve bugs, very friendly",
+    "user": "Scuzz Raver",
+    "date": "10/11/25",
+    "image": "https://cdn.discordapp.com/avatars/204853935901507584/9ab65f724a24f7b35ff5c43733d2e721.webp?size=80"
+  },
+  {
+    "id": "50",
+    "supportRating": 5,
+    "comments": "Excellent service very helpful, quick response and very friendly. I will enjoy setting these scripts up and working with them keep up the good work Groot team ❤️ 🔥",
+    "user": "Anonymous",
+    "date": "10/12/25",
+    "image": "https://cdn.discordapp.com/avatars/723319784099283014/627a3aabf149e0525c30b85bd427588b.webp?size=80"
+  }
+]
