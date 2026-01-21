@@ -1,5 +1,129 @@
 [
   {
+    "id": "4831",
+    "supportRating": 5,
+    "comments": "Everything went great from the start. All of my questions before purchase were answered and the support afterwards was perfect. Even helped me install a function that didn’t exist in the script. Highly recommended.",
+    "user": "Jeff",
+    "date": "11/06/25",
+    "image": "https://cdn.discordapp.com/avatars/240213303463247872/3cbb0c953fe0b50ef29d4e3b8d652b54.webp?size=80"
+  },
+  {
+    "id": "7294",
+    "supportRating": 5,
+    "comments": "Good product with actually helpful and friendly support.",
+    "user": "Kate",
+    "date": "11/10/25",
+    "image": "https://cdn.discordapp.com/avatars/908621151733948486/a_8949d2c5f56178f889b24340edb9b6f4.webp?size=80"
+  },
+  {
+    "id": "6158",
+    "supportRating": 5,
+    "comments": "Super fast support to fix some issues and add a small amount of customization.",
+    "user": "Bigglets",
+    "date": "11/15/25",
+    "image": "https://cdn.discordapp.com/avatars/487244434031771648/ca1dd246b22e679cdccf089daa6aa791.webp?size=80"
+  },
+  {
+    "id": "9046",
+    "supportRating": 5,
+    "comments": "Everything has been great. The UI is super clean and has everything needed. A receipt bug was confirmed and fixed within 30 seconds. Faster than Starbucks. Best devs I’ve met with A+++++ service.",
+    "user": "ExecPanda",
+    "date": "11/15/25",
+    "image": "https://cdn.discordapp.com/avatars/173401984127336448/a354762ae558daecf4f1f8b823b6aa6b.webp?size=80g"
+  },
+  {
+    "id": "904434",
+    "supportRating": 5,
+    "comments": "justgroot Went above and BEYOND with support on this. I came in with an inventory that wasnt already supported and he took the time to help me get it working. Highly recommend his scripts. Ill def be getting more. Most script creators wont give you the time of day much less if it isnt supported. He didnt have to. Appreciate it 100x!.",
+    "user": "Proof",
+    "date": "11/19/25",
+    "image": "https://cdn.discordapp.com/avatars/1188729863633383496/b153abc5ad5ce5f6d3b0fd6c9a961062.webp?size=80"
+  },
+  {
+    "id": "3689",
+    "supportRating": 5,
+    "comments": "Had issue after issue but @justgroot did not stop until we found a solution. Also very quick responses via the ticket usually waiting days for other people with a response so well done on that end guys.",
+    "user": "Lee Calmera",
+    "date": "11/19/25",
+    "image": "https://cdn.discordapp.com/avatars/781486118575144971/ad62837a785e40648d05db8a769183c9.webp?size=80"
+  },
+  {
+    "id": "5713",
+    "supportRating": 5,
+    "comments": "@justgroot Great Menu, had some problems with Errors, but it could solved easily  within a few hours.",
+    "user": "Juri_Sanchez",
+    "date": "12/02/25",
+    "image": "https://cdn.discordapp.com/avatars/305384432377004034/8042e52a592f70bf60cf4befd9114dbf.webp?size=80"
+  },
+  {
+    "id": "8467",
+    "supportRating": 5,
+    "comments": "@justgroot very fast response it just a giveaway but he respond me very fast . not to metion that you already bought their script - they should be supporting you as fast as posiible",
+    "user": "Confident",
+    "date": "12/02/25",
+    "image": "https://cdn.discordapp.com/avatars/1082184166013149284/240bd175c47653c62533fdb9ad7391c0.webp?size=80"
+  },
+  {
+    "id": "2914",
+    "supportRating": 5,
+    "comments": "Extremely fast response when I had questions, and was extremely understanding with my mess up and provided a fast remedy!",
+    "user": "Tie",
+    "date": "12/08/25",
+    "image": "https://cdn.discordapp.com/avatars/251066361504071681/a_35bfb8b8af615f8240b87af4f66277f5.webp?size=80"
+  },
+  {
+    "id": "7542",
+    "supportRating": 5,
+    "comments": "Very friendly support, helps wherever possible, takes time for customers – best support I've ever had. @justgroot",
+    "user": "GiftZwerg",
+    "date": "12/14/25",
+    "image": "https://cdn.discordapp.com/avatars/1021464643270619156/ca50e6da36993b2f119000c7e8b3c7d3.webp?size=80"
+  },
+  {
+    "id": "1683",
+    "supportRating": 5,
+    "comments": "Excellent support and script! Highly recommend!",
+    "user": "NOLArunt",
+    "date": "12/29/25",
+    "image": "https://cdn.discordapp.com/avatars/243204559898411008/a_92b9319db0dec5873d8273c839f9d2bc.webp?size=80&animated=true"
+  },
+  {
+    "id": "4829",
+    "supportRating": 5,
+    "comments": "Fast support and the best answers for all my questions!",
+    "user": "4za",
+    "date": "12/30/25",
+    "image": "https://cdn.discordapp.com/avatars/234781149526753280/cf4c9c6c2206f76a9c7fb78614511723.webp?size=80"
+  },
+  {
+    "id": "7316",
+    "supportRating": 5,
+    "comments": "Fast support, Gave me the snippet to edit the script for easy implementation.",
+    "user": "Enrgy",
+    "date": "01/15/26",
+    "image": "https://cdn.discordapp.com/avatars/1177090190469255249/ceb6bd3af5d4414e37134b7700f09463.webp?size=80"
+  },
+  {
+    "id": "6142",
+    "supportRating": 5,
+    "comments": "I purchased several FiveM resources from Groot and I am extremely satisfied with them—not only from a visual standpoint, but also in terms of functionality and stability. It is truly refreshing to come across developers who genuinely know what they are doing, who offer respectful support, and who are willing to dedicate the necessary time to fix bugs or clarify any uncertainties.Groot is one of the few developers who does everything right—actually, excellent would be the right word. Working with him is an absolute pleasure. His professionalism, patience, and attention to detail really stand out in a space where that is not always guaranteed. I recommend him with complete confidence. Thank you for everything you have done, and especially for the way you supported and guided us throughout the process. You are a true superstar ⭐.",
+    "user": "Martin Riggs",
+    "date": "01/18/26",
+    "image": "https://cdn.discordapp.com/avatars/423595095070212097/5f3a12021b7a33947d07bd6aeef6209f.webp?size=80"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+  {
     "id": "1",
     "supportRating": 5,
     "comments": "Cannot express how good this script is!",
