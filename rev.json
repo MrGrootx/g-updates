@@ -1,5 +1,77 @@
 [
   {
+    "id": "1935",
+    "supportRating": 5,
+    "comments": "Fast support and very kind and helpful. I really recommend.",
+    "user": "KadoH",
+    "date": "01/21/26",
+    "image": "https://cdn.discordapp.com/avatars/748944740401021129/e462a6a8838d2c453545ba69c3f007ca.webp?size=80"
+  },
+  {
+    "id": "8842",
+    "supportRating": 5,
+    "comments": "Fast support and very kind and helpful. Awesome!",
+    "user": "Tdsax07",
+    "date": "01/28/26",
+    "image": "https://cdn.discordapp.com/avatars/559941093849038870/dd03ffb4ca033181bc012d5dabce5514.webp?size=80"
+  },
+  {
+    "id": "2291",
+    "supportRating": 5,
+    "comments": " We contanstantly have issues with FiveM Script devs around support and integration. How ever Groot Development was on it with in Minutes and did not mind the Stupid questions we had. Also went out of there way to ensure a script works with in a space that it normally does not. Amazing Service and will definitely keep support Groot Dev in the future and would recommend if you haven't already to look at getting there work. 100/10 would recommend 🫡",
+    "user": "Vroetel",
+    "date": "02/06/26",
+    "image": "https://cdn.discordapp.com/avatars/583655089278025748/fc6cd3955ea8e00601c7200d477f4045.webp?size=80"
+  },
+   {
+    "id": "6673",
+    "supportRating": 5,
+    "comments": "Amazing support. Helped troubleshoot and even walked through the script to find the issue.",
+    "user": "AllFather332",
+    "date": "02/15/26",
+    "image": "https://cdn.discordapp.com/avatars/776758381569900545/6eb57c90efa199880a53911e7391bbd0.webp?size=80"
+  },
+  {
+    "id": "4582",
+    "supportRating": 5,
+    "comments": "Fast support and very kind and helpful. Awesome!",
+    "user": "Lucas",
+    "date": "02/27/26",
+    "image": "https://cdn.discordapp.com/avatars/1442913736846217248/a_1762788a0115abf10c8d3eb518256f2c.webp?size=80"
+  },
+   {
+    "id": "6239",
+    "supportRating": 5,
+    "comments": "I'm always skeptical when it comes to trying out new scripts from developers I haven't purchased from before, but going Groot was the right way to go! I had a few questions and they were answered almost instantly (which if you look around, a lot of developers take a day+ to respond). 100% recommend anything Groot sells!",
+    "user": "Cesar",
+    "date": "03/03/26",
+    "image": "https://cdn.discordapp.com/avatars/564733756007776276/7265245b32c88fa80c7f186c8fbd160f.webp?size=80"
+  },
+  {
+    "id": "5182",
+    "supportRating": 5,
+    "comments": "Very helpful. Spent hours fixing an error and got me running in minutes after opening a ticket. Amazing service.",
+    "user": "Jeff Lowkey",
+    "date": "03/20/26",
+    "image": "https://cdn.discordapp.com/avatars/1188531062075310130/1bdc4fa6fceaf97afb43adef7de7fb48.webp?size=80"
+  },
+  {
+    "id": "6627",
+    "supportRating": 5,
+    "comments": "Incredible support and extraordinary patience. Thank you for being on FiveM.",
+    "user": "MARVIN",
+    "date": "03/23/26",
+    "image": "https://cdn.discordapp.com/avatars/1083828902692135054/8ea2ee620ac62c904ca3ce9e2795ab3e.webp?size=80"
+  },
+
+
+
+
+
+
+
+
+  {
     "id": "4831",
     "supportRating": 5,
     "comments": "Everything went great from the start. All of my questions before purchase were answered and the support afterwards was perfect. Even helped me install a function that didn’t exist in the script. Highly recommended.",
@@ -111,34 +183,6 @@
     "date": "01/18/26",
     "image": "https://cdn.discordapp.com/avatars/423595095070212097/5f3a12021b7a33947d07bd6aeef6209f.webp?size=80"
   },
-
-
-
-
-
-
-
-
-
-
-
-
-  {
-    "id": "1",
-    "supportRating": 5,
-    "comments": "Cannot express how good this script is!",
-    "user": "canottxyzh",
-    "date": "11/19/24",
-    "image": "https://cdn.discordapp.com/avatars/761835363974774794/a_9fecf147e5b7dc93744ed26c6855913e.webp?size=80"
-  },
-  {
-    "id": "2",
-    "supportRating": 5,
-    "comments": "Good script, better customer services",
-    "user": "R",
-    "date": "11/27/24",
-    "image": "https://cdn.discordapp.com/avatars/416918685417078785/07b76684d9222fc3f4991fdf4db4f5ee.webp?size=80"
-  },
   {
     "id": "3",
     "supportRating": 5,
@@ -146,22 +190,6 @@
     "user": "Dyce",
     "date": "12/12/24",
     "image": "https://cdn.discordapp.com/avatars/250419662255292416/fe541c7769a902c38c6f9793483b52c2.webp?size=80"
-  },
-  {
-    "id": "5",
-    "supportRating": 5,
-    "comments": "Perfect job, nice looking UI",
-    "user": "Burrito",
-    "date": "1/5/25",
-    "image": "https://cdn.discordapp.com/avatars/159085662417584128/a_1f405fbfa336b998e42ea104dfbcc8f4.webp?size=80"
-  },
-  {
-    "id": "6",
-    "supportRating": 5,
-    "comments": "Thank you for all the support you gave me for a ($2!!) script",
-    "user": "Foone",
-    "date": "1/29/25",
-    "image": "https://cdn.discordapp.com/avatars/407979069205118988/f98e75f0886d2cafa7cea2ff95a24f50.webp?size=80"
   },
   {
     "id": "7",
@@ -172,36 +200,12 @@
     "image": "https://cdn.discordapp.com/avatars/1237611056080359515/3fca5b78d1aa59e37f6ead062b7695e2.webp?size=80"
   },
   {
-    "id": "8",
-    "supportRating": 5,
-    "comments": "Good script and best support ❤️",
-    "user": "nicetuga",
-    "date": "2/20/25",
-    "image": "https://cdn.discordapp.com/avatars/370663858567643136/ddd2c52cd9755f67585de75bfe749080.webp?size=80"
-  },
-  {
-    "id": "9",
-    "supportRating": 5,
-    "comments": "Good script and best support ♥️ ♥️",
-    "user": "Aimeri",
-    "date": "3/19/25",
-    "image": "https://cdn.discordapp.com/avatars/107797186636455936/2c4ee7118b209e2e44acdabff24dd942.webp?size=80"
-  },
-  {
     "id": "10",
     "supportRating": 5,
     "comments": "Great script with fast, polite and efficient support. Would definitely recommend!",
     "user": "Fruktas",
     "date": "3/22/25",
     "image": "https://cdn.discordapp.com/avatars/811296531750715492/50c3475e952660dad9b1c17fd55ba865.webp?size=80"
-  },
-  {
-    "id": "11",
-    "supportRating": 5,
-    "comments": "Perfect quality, great job. ♥️ ♥️",
-    "user": "Joemul2019",
-    "date": "4/4/25",
-    "image": "https://cdn.discordapp.com/avatars/662432953422577736/4d2920dc38eabb8f9b6d30419a311ff8.webp?size=80"
   },
   {
     "id": "14",
@@ -218,14 +222,6 @@
     "user": "AboJ3fr",
     "date": "5/2/25",
     "image": "https://cdn.discordapp.com/avatars/649303766025371648/55a9ec85d28661977f1a49f7fa43dc37.webp?size=80"
-  },
-  {
-    "id": "17",
-    "supportRating": 5,
-    "comments": "W support for adding the github commit requested feature",
-    "user": "Matt",
-    "date": "5/20/25",
-    "image": "https://cdn.discordapp.com/avatars/289210274005778432/2c083b9e43930abaed89ccb04562b51c.webp?size=80"
   },
   {
     "id": "18",
@@ -340,14 +336,6 @@
     "image": "https://cdn.discordapp.com/avatars/688537257140813971/b33c36d8304b00cc4a9c3c55978c223a.webp?size=80"
   },
   {
-    "id": "35",
-    "supportRating": 5,
-    "comments": "Great and fast support! The script is amazing",
-    "user": "Inertia",
-    "date": "9/6/25",
-    "image": "https://cdn.discordapp.com/avatars/540369261630193686/fc999e776ec978dd06a4b80cc772e47f.webp?size=80"
-  },
-  {
     "id": "36",
     "supportRating": 5,
     "comments": "@justgroot Was extremely helpful and willing to do what was needed to help me! Script looks and works great! Coming back for more in the future!",
@@ -380,14 +368,6 @@
     "image": "https://cdn.discordapp.com/avatars/1067577783749980200/2e65c63abe9ba1a7cd420efc33321e7d.webp?size=80"
   },
   {
-    "id": "41",
-    "supportRating": 5,
-    "comments": "The support is super fast and helpful. I'm very satisfied.",
-    "user": "soup",
-    "date": "9/26/25",
-    "image": "https://cdn.discordapp.com/avatars/241355360802177034/c3ae3a164c44e666e2d957d77d0a5c0b.webp?size=80"
-  },
-  {
     "id": "42",
     "supportRating": 5,
     "comments": "I had an issue/suggestion with the script and within an hour, groot went out of their way to update the script. Redownloading and updating fixed everything. W dev for sure.",
@@ -412,28 +392,12 @@
     "image": "https://cdn.discordapp.com/avatars/348844775706853400/3cf5057dcc35448a9164df99e0b5da88.webp?size=80"
   },
   {
-    "id": "45",
-    "supportRating": 5,
-    "comments": "Really fast support and really thankful. Awesome script and easy to understand.",
-    "user": "popy993",
-    "date": "10/2/25",
-    "image": "https://cdn.discordapp.com/avatars/295928288860307458/d085fe7a0e82c10d472748c68e8d6000.webp?size=80"
-  },
-  {
     "id": "46",
     "supportRating": 5,
     "comments": "Quick response! A creator you can trust, even if you're Japanese.",
     "user": "RedRaider",
     "date": "10/6/25",
     "image": "https://cdn.discordapp.com/avatars/688537257140813971/b33c36d8304b00cc4a9c3c55978c223a.webp?size=80"
-  },
-  {
-    "id": "47",
-    "supportRating": 5,
-    "comments": "Great script, Groot was quick to answer questions I had and very helpful.",
-    "user": "MintyPenguin",
-    "date": "10/8/25",
-    "image": "https://cdn.discordapp.com/avatars/878095361573552128/4afcb35b3c32b6192b9d1c2c343a90c7.webp?size=80"
   },
   {
     "id": "49",
